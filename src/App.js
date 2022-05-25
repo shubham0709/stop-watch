@@ -11,7 +11,7 @@ function App() {
       <h1> This is my Timer</h1>
       {/* <input type="number" placeholder='enter start time' onChange={(e) => { setBegin(e.target.value) }} />
       <input type="number" placeholder='enter end time' onChange={(e) => { setEnd(e.target.value) }} /> */}
-      <button>START TIMER</button>
+      {/* <button>START TIMER</button> */}
       {/* {
         flag ? <Timer begin={Number("5000")} end={Number("10000")} /> : null
       } */}
