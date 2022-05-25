@@ -1,0 +1,21 @@
+.timerButtons {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+.timerButtons > button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border: 2px solid rgb(39, 60, 180);
+  border-radius: 20px;
+  width: 150px;
+  font-size: 20px;
+}
+.timerButtons > button:hover {
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
